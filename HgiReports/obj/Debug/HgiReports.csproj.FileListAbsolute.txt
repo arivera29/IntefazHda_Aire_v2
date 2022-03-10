@@ -1,0 +1,49 @@
+C:\Users\Aimer\Documents\Visual Studio 2013\Projects\InterfazHDA\HgiReports\bin\Debug\HgiReports.exe.config
+C:\Users\Aimer\Documents\Visual Studio 2013\Projects\InterfazHDA\HgiReports\bin\Debug\HgiReports.exe
+C:\Users\Aimer\Documents\Visual Studio 2013\Projects\InterfazHDA\HgiReports\bin\Debug\HgiReports.pdb
+C:\Users\Aimer\Documents\Visual Studio 2013\Projects\InterfazHDA\HgiReports\obj\Debug\HgiReports.csprojResolveAssemblyReference.cache
+C:\Users\Aimer\Documents\Visual Studio 2013\Projects\InterfazHDA\HgiReports\obj\Debug\HgiReports.exe
+C:\Users\Aimer\Documents\Visual Studio 2013\Projects\InterfazHDA\HgiReports\obj\Debug\HgiReports.pdb
+C:\Users\Aimer\Documents\Visual Studio 2013\Projects\InterfazHDA\HgiReports\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\HgiReports\obj\Debug\HgiReports.csprojResolveAssemblyReference.cache
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\HgiReports\obj\Debug\HgiReports.exe
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\HgiReports\obj\Debug\HgiReports.pdb
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\HgiReports\bin\Debug\HgiReports.exe.config
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\HgiReports\bin\Debug\HgiReports.exe
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\HgiReports\bin\Debug\HgiReports.pdb
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\HgiReports\bin\Debug\INIFileParser.dll
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\HgiReports\bin\Debug\INIFileParser.xml
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\HgiReports\bin\Debug\log4net.dll
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\HgiReports\bin\Debug\log4net.xml
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\HgiReports\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\HgiReports\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\Soluciones\Documents\Visual Studio 2015\Projects\InterfazHDA\HgiReports\obj\Debug\HgiReports.csprojResolveAssemblyReference.cache
+C:\Users\Soluciones\Documents\Visual Studio 2015\Projects\InterfazHDA\HgiReports\obj\Debug\HgiReports.exe
+C:\Users\Soluciones\Documents\Visual Studio 2015\Projects\InterfazHDA\HgiReports\obj\Debug\HgiReports.pdb
+C:\Users\Soluciones\Documents\Visual Studio 2015\Projects\InterfazHDA\HgiReports\bin\Debug\HgiReports.exe.config
+C:\Users\Soluciones\Documents\Visual Studio 2015\Projects\InterfazHDA\HgiReports\bin\Debug\HgiReports.exe
+C:\Users\Soluciones\Documents\Visual Studio 2015\Projects\InterfazHDA\HgiReports\bin\Debug\HgiReports.pdb
+C:\Users\Soluciones\Documents\Visual Studio 2015\Projects\InterfazHDA\HgiReports\bin\Debug\AWSSDK.dll
+C:\Users\Soluciones\Documents\Visual Studio 2015\Projects\InterfazHDA\HgiReports\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Soluciones\Documents\Visual Studio 2015\Projects\InterfazHDA\HgiReports\bin\Debug\INIFileParser.dll
+C:\Users\Soluciones\Documents\Visual Studio 2015\Projects\InterfazHDA\HgiReports\bin\Debug\log4net.dll
+C:\Users\Soluciones\Documents\Visual Studio 2015\Projects\InterfazHDA\HgiReports\bin\Debug\AWSSDK.pdb
+C:\Users\Soluciones\Documents\Visual Studio 2015\Projects\InterfazHDA\HgiReports\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\Soluciones\Documents\Visual Studio 2015\Projects\InterfazHDA\HgiReports\bin\Debug\INIFileParser.xml
+C:\Users\Soluciones\Documents\Visual Studio 2015\Projects\InterfazHDA\HgiReports\bin\Debug\log4net.xml
+C:\Users\Aimer\Documents\Visual Studio 2019\Projects\InterfazHDA\HgiReports\bin\Debug\HgiReports.exe.config
+C:\Users\Aimer\Documents\Visual Studio 2019\Projects\InterfazHDA\HgiReports\bin\Debug\HgiReports.exe
+C:\Users\Aimer\Documents\Visual Studio 2019\Projects\InterfazHDA\HgiReports\bin\Debug\HgiReports.pdb
+C:\Users\Aimer\Documents\Visual Studio 2019\Projects\InterfazHDA\HgiReports\bin\Debug\AWSSDK.dll
+C:\Users\Aimer\Documents\Visual Studio 2019\Projects\InterfazHDA\HgiReports\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Aimer\Documents\Visual Studio 2019\Projects\InterfazHDA\HgiReports\bin\Debug\INIFileParser.dll
+C:\Users\Aimer\Documents\Visual Studio 2019\Projects\InterfazHDA\HgiReports\bin\Debug\log4net.dll
+C:\Users\Aimer\Documents\Visual Studio 2019\Projects\InterfazHDA\HgiReports\bin\Debug\AWSSDK.pdb
+C:\Users\Aimer\Documents\Visual Studio 2019\Projects\InterfazHDA\HgiReports\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\Aimer\Documents\Visual Studio 2019\Projects\InterfazHDA\HgiReports\bin\Debug\INIFileParser.xml
+C:\Users\Aimer\Documents\Visual Studio 2019\Projects\InterfazHDA\HgiReports\bin\Debug\log4net.xml
+C:\Users\Aimer\Documents\Visual Studio 2019\Projects\InterfazHDA\HgiReports\obj\Debug\HgiReports.csprojAssemblyReference.cache
+C:\Users\Aimer\Documents\Visual Studio 2019\Projects\InterfazHDA\HgiReports\obj\Debug\HgiReports.csproj.CoreCompileInputs.cache
+C:\Users\Aimer\Documents\Visual Studio 2019\Projects\InterfazHDA\HgiReports\obj\Debug\HgiReports.csproj.CopyComplete
+C:\Users\Aimer\Documents\Visual Studio 2019\Projects\InterfazHDA\HgiReports\obj\Debug\HgiReports.exe
+C:\Users\Aimer\Documents\Visual Studio 2019\Projects\InterfazHDA\HgiReports\obj\Debug\HgiReports.pdb

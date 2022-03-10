@@ -1,0 +1,6 @@
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\DepurarDocumentosHGI2\bin\Debug\DepurarDocumentosHGI2.exe.config
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\DepurarDocumentosHGI2\bin\Debug\DepurarDocumentosHGI2.exe
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\DepurarDocumentosHGI2\bin\Debug\DepurarDocumentosHGI2.pdb
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\DepurarDocumentosHGI2\obj\Debug\DepurarDocumentosHGI2.csprojResolveAssemblyReference.cache
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\DepurarDocumentosHGI2\obj\Debug\DepurarDocumentosHGI2.exe
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\DepurarDocumentosHGI2\obj\Debug\DepurarDocumentosHGI2.pdb

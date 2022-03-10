@@ -1,0 +1,325 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CD81F60D-F9A3-43F1-950B-B68BDE50858A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>InterfazHda</RootNamespace>
+    <AssemblyName>InterfazHda</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="itextsharp">
+      <HintPath>..\..\..\..\..\..\..\librerias\itextsharp-all-5.5.6\itextsharp-dll-core\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp.pdfa">
+      <HintPath>..\..\..\..\..\..\..\librerias\itextsharp-all-5.5.6\itextsharp-dll-pdfa\itextsharp.pdfa.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp.xmlworker">
+      <HintPath>..\..\..\..\..\..\..\librerias\itextsharp-all-5.5.6\itextsharp.xmlworker-all-5.5.6\itextsharp.xmlworker.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp.xtra">
+      <HintPath>..\..\..\..\..\..\..\librerias\itextsharp-all-5.5.6\itextsharp-dll-xtra\itextsharp.xtra.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\librerias\Json60r8\Bin\Net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="SautinSoft.PdfFocus">
+      <HintPath>..\..\..\..\..\..\..\librerias\PDF Focus\SautinSoft.PdfFocus.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Accion.cs" />
+    <Compile Include="Acta.cs" />
+    <Compile Include="Anomalia.cs" />
+    <Compile Include="Censo.cs" />
+    <Compile Include="Datos.cs" />
+    <Compile Include="FileLOG.cs" />
+    <Compile Include="Foto.cs" />
+    <Compile Include="FrmActualizarEstadoOrden.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmActualizarEstadoOrden.Designer.cs">
+      <DependentUpon>FrmActualizarEstadoOrden.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCleanDocumentos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCleanDocumentos.Designer.cs">
+      <DependentUpon>FrmCleanDocumentos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmConfig.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmConfig.Designer.cs">
+      <DependentUpon>FrmConfig.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmConvertPDFtoTIFF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmConvertPDFtoTIFF.Designer.cs">
+      <DependentUpon>FrmConvertPDFtoTIFF.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDistribuir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDistribuir.Designer.cs">
+      <DependentUpon>FrmDistribuir.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDistribuirActas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDistribuirActas.Designer.cs">
+      <DependentUpon>FrmDistribuirActas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDistribuirAsigando.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDistribuirAsigando.Designer.cs">
+      <DependentUpon>FrmDistribuirAsigando.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDistribuirBandejaSinAnomalia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDistribuirBandejaSinAnomalia.Designer.cs">
+      <DependentUpon>FrmDistribuirBandejaSinAnomalia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmExtraerDocumentosActas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmExtraerDocumentosActas.Designer.cs">
+      <DependentUpon>FrmExtraerDocumentosActas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmImagenGuia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmImagenGuia.Designer.cs">
+      <DependentUpon>FrmImagenGuia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmInterfaz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmInterfaz.Designer.cs">
+      <DependentUpon>FrmInterfaz.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmObtenerFotosHDA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmObtenerFotosHDA.Designer.cs">
+      <DependentUpon>FrmObtenerFotosHDA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSubirDocumentos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSubirDocumentos.Designer.cs">
+      <DependentUpon>FrmSubirDocumentos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmUpdateActasProtocolo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmUpdateActasProtocolo.Designer.cs">
+      <DependentUpon>FrmUpdateActasProtocolo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmUpdateTarifa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmUpdateTarifa.Designer.cs">
+      <DependentUpon>FrmUpdateTarifa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmUploadFileClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmUploadFileClientes.Designer.cs">
+      <DependentUpon>FrmUploadFileClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmUploadFileImagen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmUploadFileImagen.Designer.cs">
+      <DependentUpon>FrmUploadFileImagen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmUploadGuia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmUploadGuia.Designer.cs">
+      <DependentUpon>FrmUploadGuia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmUtilidadFile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmUtilidadFile.Designer.cs">
+      <DependentUpon>FrmUtilidadFile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmVerLog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmVerLog.Designer.cs">
+      <DependentUpon>FrmVerLog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmWsConsumos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmWsConsumos.Designer.cs">
+      <DependentUpon>FrmWsConsumos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GestionActa.cs" />
+    <Compile Include="GestionBandeja.cs" />
+    <Compile Include="InfoActa.cs" />
+    <Compile Include="Material.cs" />
+    <Compile Include="MedidorExistente.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Protocolo.cs" />
+    <Compile Include="Sellos.cs" />
+    <Compile Include="UploadActas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UploadActas.Designer.cs">
+      <DependentUpon>UploadActas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WSConsumo.cs" />
+    <Compile Include="WSMedidor.cs" />
+    <Compile Include="WSOrdenes.cs" />
+    <Compile Include="WSTarifa.cs" />
+    <EmbeddedResource Include="FrmActualizarEstadoOrden.resx">
+      <DependentUpon>FrmActualizarEstadoOrden.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCleanDocumentos.resx">
+      <DependentUpon>FrmCleanDocumentos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmConfig.resx">
+      <DependentUpon>FrmConfig.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmConvertPDFtoTIFF.resx">
+      <DependentUpon>FrmConvertPDFtoTIFF.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDistribuir.resx">
+      <DependentUpon>FrmDistribuir.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDistribuirActas.resx">
+      <DependentUpon>FrmDistribuirActas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDistribuirAsigando.resx">
+      <DependentUpon>FrmDistribuirAsigando.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDistribuirBandejaSinAnomalia.resx">
+      <DependentUpon>FrmDistribuirBandejaSinAnomalia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmExtraerDocumentosActas.resx">
+      <DependentUpon>FrmExtraerDocumentosActas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmImagenGuia.resx">
+      <DependentUpon>FrmImagenGuia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmInterfaz.resx">
+      <DependentUpon>FrmInterfaz.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmObtenerFotosHDA.resx">
+      <DependentUpon>FrmObtenerFotosHDA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSubirDocumentos.resx">
+      <DependentUpon>FrmSubirDocumentos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmUpdateActasProtocolo.resx">
+      <DependentUpon>FrmUpdateActasProtocolo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmUpdateTarifa.resx">
+      <DependentUpon>FrmUpdateTarifa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmUploadFileClientes.resx">
+      <DependentUpon>FrmUploadFileClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmUploadFileImagen.resx">
+      <DependentUpon>FrmUploadFileImagen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmUploadGuia.resx">
+      <DependentUpon>FrmUploadGuia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmUtilidadFile.resx">
+      <DependentUpon>FrmUtilidadFile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmVerLog.resx">
+      <DependentUpon>FrmVerLog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmWsConsumos.resx">
+      <DependentUpon>FrmWsConsumos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="UploadActas.resx">
+      <DependentUpon>UploadActas.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\start.png" />
+    <Content Include="Resources\stop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

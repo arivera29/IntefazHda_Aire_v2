@@ -1,0 +1,13 @@
+C:\Users\Aimer\Documents\Visual Studio 2013\Projects\InterfazHDA\MasivosApp\bin\Debug\MasivosApp.exe.config
+C:\Users\Aimer\Documents\Visual Studio 2013\Projects\InterfazHDA\MasivosApp\bin\Debug\MasivosApp.exe
+C:\Users\Aimer\Documents\Visual Studio 2013\Projects\InterfazHDA\MasivosApp\bin\Debug\MasivosApp.pdb
+C:\Users\Aimer\Documents\Visual Studio 2013\Projects\InterfazHDA\MasivosApp\bin\Debug\itextsharp.dll
+C:\Users\Aimer\Documents\Visual Studio 2013\Projects\InterfazHDA\MasivosApp\bin\Debug\itextsharp.pdfa.dll
+C:\Users\Aimer\Documents\Visual Studio 2013\Projects\InterfazHDA\MasivosApp\bin\Debug\itextsharp.xtra.dll
+C:\Users\Aimer\Documents\Visual Studio 2013\Projects\InterfazHDA\MasivosApp\bin\Debug\itextsharp.xml
+C:\Users\Aimer\Documents\Visual Studio 2013\Projects\InterfazHDA\MasivosApp\obj\Debug\MasivosApp.csprojResolveAssemblyReference.cache
+C:\Users\Aimer\Documents\Visual Studio 2013\Projects\InterfazHDA\MasivosApp\obj\Debug\MasivosApp.Form1.resources
+C:\Users\Aimer\Documents\Visual Studio 2013\Projects\InterfazHDA\MasivosApp\obj\Debug\MasivosApp.Properties.Resources.resources
+C:\Users\Aimer\Documents\Visual Studio 2013\Projects\InterfazHDA\MasivosApp\obj\Debug\MasivosApp.csproj.GenerateResource.Cache
+C:\Users\Aimer\Documents\Visual Studio 2013\Projects\InterfazHDA\MasivosApp\obj\Debug\MasivosApp.exe
+C:\Users\Aimer\Documents\Visual Studio 2013\Projects\InterfazHDA\MasivosApp\obj\Debug\MasivosApp.pdb

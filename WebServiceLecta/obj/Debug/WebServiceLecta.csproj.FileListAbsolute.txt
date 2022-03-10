@@ -1,0 +1,51 @@
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\WebServiceLecta\bin\Debug\WebServiceLecta.exe.config
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\WebServiceLecta\bin\Debug\WebServiceLecta.exe
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\WebServiceLecta\bin\Debug\WebServiceLecta.pdb
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\WebServiceLecta\obj\Debug\WebServiceLecta.exe
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\WebServiceLecta\obj\Debug\WebServiceLecta.pdb
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\WebServiceLecta\bin\Debug\itextsharp.dll
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\WebServiceLecta\bin\Debug\itextsharp.pdfa.dll
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\WebServiceLecta\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\WebServiceLecta\bin\Debug\itextsharp.xtra.dll
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\WebServiceLecta\obj\Debug\WebServiceLecta.csprojResolveAssemblyReference.cache
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\WebServiceLecta\bin\Debug\INIFileParser.dll
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\WebServiceLecta\bin\Debug\INIFileParser.xml
+C:\Users\Soluciones\Documents\Visual Studio 2015\Projects\InterfazHDA\WebServiceLecta\bin\Debug\WebServiceLecta.exe.config
+C:\Users\Soluciones\Documents\Visual Studio 2015\Projects\InterfazHDA\WebServiceLecta\obj\Debug\WebServiceLecta.exe
+C:\Users\Soluciones\Documents\Visual Studio 2015\Projects\InterfazHDA\WebServiceLecta\obj\Debug\WebServiceLecta.pdb
+C:\Users\Soluciones\Documents\Visual Studio 2015\Projects\InterfazHDA\WebServiceLecta\bin\Debug\WebServiceLecta.exe
+C:\Users\Soluciones\Documents\Visual Studio 2015\Projects\InterfazHDA\WebServiceLecta\bin\Debug\WebServiceLecta.pdb
+C:\Users\Soluciones\Documents\Visual Studio 2015\Projects\InterfazHDA\WebServiceLecta\bin\Debug\AWSSDK.dll
+C:\Users\Soluciones\Documents\Visual Studio 2015\Projects\InterfazHDA\WebServiceLecta\bin\Debug\INIFileParser.dll
+C:\Users\Soluciones\Documents\Visual Studio 2015\Projects\InterfazHDA\WebServiceLecta\bin\Debug\AWSSDK.pdb
+C:\Users\Soluciones\Documents\Visual Studio 2015\Projects\InterfazHDA\WebServiceLecta\bin\Debug\INIFileParser.xml
+C:\Users\Soluciones\Documents\Visual Studio 2015\Projects\InterfazHDA\WebServiceLecta\obj\Debug\WebServiceLecta.csprojResolveAssemblyReference.cache
+C:\Users\Aimer\Documents\Visual Studio 2019\Projects\InterfazHDA\WebServiceLecta\bin\Debug\WebServiceLecta.exe.config
+C:\Users\Aimer\Documents\Visual Studio 2019\Projects\InterfazHDA\WebServiceLecta\bin\Debug\WebServiceLecta.exe
+C:\Users\Aimer\Documents\Visual Studio 2019\Projects\InterfazHDA\WebServiceLecta\bin\Debug\WebServiceLecta.pdb
+C:\Users\Aimer\Documents\Visual Studio 2019\Projects\InterfazHDA\WebServiceLecta\bin\Debug\AWSSDK.dll
+C:\Users\Aimer\Documents\Visual Studio 2019\Projects\InterfazHDA\WebServiceLecta\bin\Debug\INIFileParser.dll
+C:\Users\Aimer\Documents\Visual Studio 2019\Projects\InterfazHDA\WebServiceLecta\bin\Debug\AWSSDK.pdb
+C:\Users\Aimer\Documents\Visual Studio 2019\Projects\InterfazHDA\WebServiceLecta\bin\Debug\INIFileParser.xml
+C:\Users\Aimer\Documents\Visual Studio 2019\Projects\InterfazHDA\WebServiceLecta\obj\Debug\WebServiceLecta.csprojAssemblyReference.cache
+C:\Users\Aimer\Documents\Visual Studio 2019\Projects\InterfazHDA\WebServiceLecta\obj\Debug\WebServiceLecta.csproj.CoreCompileInputs.cache
+C:\Users\Aimer\Documents\Visual Studio 2019\Projects\InterfazHDA\WebServiceLecta\obj\Debug\WebServiceLecta.csproj.CopyComplete
+C:\Users\Aimer\Documents\Visual Studio 2019\Projects\InterfazHDA\WebServiceLecta\obj\Debug\WebServiceLecta.exe
+C:\Users\Aimer\Documents\Visual Studio 2019\Projects\InterfazHDA\WebServiceLecta\obj\Debug\WebServiceLecta.pdb
+C:\Users\ASUS\source\repos\InterfazHda\WebServiceLecta\bin\Debug\WebServiceLecta.exe.config
+C:\Users\ASUS\source\repos\InterfazHda\WebServiceLecta\bin\Debug\WebServiceLecta.exe
+C:\Users\ASUS\source\repos\InterfazHda\WebServiceLecta\bin\Debug\WebServiceLecta.pdb
+C:\Users\ASUS\source\repos\InterfazHda\WebServiceLecta\bin\Debug\AWSSDK.dll
+C:\Users\ASUS\source\repos\InterfazHda\WebServiceLecta\bin\Debug\INIFileParser.dll
+C:\Users\ASUS\source\repos\InterfazHda\WebServiceLecta\bin\Debug\itextsharp.dll
+C:\Users\ASUS\source\repos\InterfazHda\WebServiceLecta\bin\Debug\itextsharp.pdfa.dll
+C:\Users\ASUS\source\repos\InterfazHda\WebServiceLecta\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\ASUS\source\repos\InterfazHda\WebServiceLecta\bin\Debug\itextsharp.xtra.dll
+C:\Users\ASUS\source\repos\InterfazHda\WebServiceLecta\bin\Debug\AWSSDK.pdb
+C:\Users\ASUS\source\repos\InterfazHda\WebServiceLecta\bin\Debug\INIFileParser.xml
+C:\Users\ASUS\source\repos\InterfazHda\WebServiceLecta\bin\Debug\itextsharp.xml
+C:\Users\ASUS\source\repos\InterfazHda\WebServiceLecta\obj\Debug\WebServiceLecta.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\InterfazHda\WebServiceLecta\obj\Debug\WebServiceLecta.csproj.CopyComplete
+C:\Users\ASUS\source\repos\InterfazHda\WebServiceLecta\obj\Debug\WebServiceLecta.exe
+C:\Users\ASUS\source\repos\InterfazHda\WebServiceLecta\obj\Debug\WebServiceLecta.pdb
+C:\Users\ASUS\source\repos\InterfazHda\WebServiceLecta\obj\Debug\WebServiceLecta.csproj.AssemblyReference.cache

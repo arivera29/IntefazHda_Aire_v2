@@ -1,0 +1,17 @@
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\ObtenerFotosHda\bin\Debug\ObtenerFotosHda.exe.config
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\ObtenerFotosHda\obj\Debug\ObtenerFotosHda.csprojResolveAssemblyReference.cache
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\ObtenerFotosHda\bin\Debug\ObtenerFotosHda.exe
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\ObtenerFotosHda\bin\Debug\ObtenerFotosHda.pdb
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\ObtenerFotosHda\bin\Debug\INIFileParser.dll
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\ObtenerFotosHda\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\ObtenerFotosHda\bin\Debug\INIFileParser.xml
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\ObtenerFotosHda\obj\Debug\ObtenerFotosHda.exe
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\ObtenerFotosHda\obj\Debug\ObtenerFotosHda.pdb
+C:\Users\Soluciones\Documents\Visual Studio 2015\Projects\InterfazHDA\ObtenerFotosHda\bin\Debug\ObtenerFotosHda.exe.config
+C:\Users\Soluciones\Documents\Visual Studio 2015\Projects\InterfazHDA\ObtenerFotosHda\bin\Debug\ObtenerFotosHda.exe
+C:\Users\Soluciones\Documents\Visual Studio 2015\Projects\InterfazHDA\ObtenerFotosHda\bin\Debug\ObtenerFotosHda.pdb
+C:\Users\Soluciones\Documents\Visual Studio 2015\Projects\InterfazHDA\ObtenerFotosHda\bin\Debug\INIFileParser.dll
+C:\Users\Soluciones\Documents\Visual Studio 2015\Projects\InterfazHDA\ObtenerFotosHda\bin\Debug\INIFileParser.xml
+C:\Users\Soluciones\Documents\Visual Studio 2015\Projects\InterfazHDA\ObtenerFotosHda\obj\Debug\ObtenerFotosHda.csprojResolveAssemblyReference.cache
+C:\Users\Soluciones\Documents\Visual Studio 2015\Projects\InterfazHDA\ObtenerFotosHda\obj\Debug\ObtenerFotosHda.exe
+C:\Users\Soluciones\Documents\Visual Studio 2015\Projects\InterfazHDA\ObtenerFotosHda\obj\Debug\ObtenerFotosHda.pdb

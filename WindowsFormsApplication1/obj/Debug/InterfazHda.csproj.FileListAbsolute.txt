@@ -1,0 +1,74 @@
+c:\users\aimer rivera\documents\visual studio 2013\Projects\InterfazHDA\WindowsFormsApplication1\bin\Debug\InterfazHda.exe.config
+c:\users\aimer rivera\documents\visual studio 2013\Projects\InterfazHDA\WindowsFormsApplication1\obj\Debug\InterfazHda.FrmInterfaz.resources
+c:\users\aimer rivera\documents\visual studio 2013\Projects\InterfazHDA\WindowsFormsApplication1\obj\Debug\InterfazHda.Properties.Resources.resources
+c:\users\aimer rivera\documents\visual studio 2013\Projects\InterfazHDA\WindowsFormsApplication1\obj\Debug\InterfazHda.csproj.GenerateResource.Cache
+c:\users\aimer rivera\documents\visual studio 2013\Projects\InterfazHDA\WindowsFormsApplication1\bin\Debug\InterfazHda.exe
+c:\users\aimer rivera\documents\visual studio 2013\Projects\InterfazHDA\WindowsFormsApplication1\bin\Debug\InterfazHda.pdb
+c:\users\aimer rivera\documents\visual studio 2013\Projects\InterfazHDA\WindowsFormsApplication1\obj\Debug\InterfazHda.exe
+c:\users\aimer rivera\documents\visual studio 2013\Projects\InterfazHDA\WindowsFormsApplication1\obj\Debug\InterfazHda.pdb
+c:\users\aimer rivera\documents\visual studio 2013\Projects\InterfazHDA\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.dll
+c:\users\aimer rivera\documents\visual studio 2013\Projects\InterfazHDA\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.pdb
+c:\users\aimer rivera\documents\visual studio 2013\Projects\InterfazHDA\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Aimer\Documents\Visual Studio 2013\Projects\InterfazHDA\WindowsFormsApplication1\bin\Debug\InterfazHda.exe.config
+C:\Users\Aimer\Documents\Visual Studio 2013\Projects\InterfazHDA\WindowsFormsApplication1\bin\Debug\InterfazHda.exe
+C:\Users\Aimer\Documents\Visual Studio 2013\Projects\InterfazHDA\WindowsFormsApplication1\bin\Debug\InterfazHda.pdb
+C:\Users\Aimer\Documents\Visual Studio 2013\Projects\InterfazHDA\WindowsFormsApplication1\bin\Debug\itextsharp.dll
+C:\Users\Aimer\Documents\Visual Studio 2013\Projects\InterfazHDA\WindowsFormsApplication1\bin\Debug\itextsharp.pdfa.dll
+C:\Users\Aimer\Documents\Visual Studio 2013\Projects\InterfazHDA\WindowsFormsApplication1\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\Aimer\Documents\Visual Studio 2013\Projects\InterfazHDA\WindowsFormsApplication1\bin\Debug\itextsharp.xtra.dll
+C:\Users\Aimer\Documents\Visual Studio 2013\Projects\InterfazHDA\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Aimer\Documents\Visual Studio 2013\Projects\InterfazHDA\WindowsFormsApplication1\bin\Debug\SautinSoft.PdfFocus.dll
+C:\Users\Aimer\Documents\Visual Studio 2013\Projects\InterfazHDA\WindowsFormsApplication1\bin\Debug\itextsharp.xml
+C:\Users\Aimer\Documents\Visual Studio 2013\Projects\InterfazHDA\WindowsFormsApplication1\obj\Debug\InterfazHda.FrmActualizarEstadoOrden.resources
+C:\Users\Aimer\Documents\Visual Studio 2013\Projects\InterfazHDA\WindowsFormsApplication1\obj\Debug\InterfazHda.FrmCleanDocumentos.resources
+C:\Users\Aimer\Documents\Visual Studio 2013\Projects\InterfazHDA\WindowsFormsApplication1\obj\Debug\InterfazHda.FrmConfig.resources
+C:\Users\Aimer\Documents\Visual Studio 2013\Projects\InterfazHDA\WindowsFormsApplication1\obj\Debug\InterfazHda.FrmConvertPDFtoTIFF.resources
+C:\Users\Aimer\Documents\Visual Studio 2013\Projects\InterfazHDA\WindowsFormsApplication1\obj\Debug\InterfazHda.FrmDistribuir.resources
+C:\Users\Aimer\Documents\Visual Studio 2013\Projects\InterfazHDA\WindowsFormsApplication1\obj\Debug\InterfazHda.FrmDistribuirAsigando.resources
+C:\Users\Aimer\Documents\Visual Studio 2013\Projects\InterfazHDA\WindowsFormsApplication1\obj\Debug\InterfazHda.FrmDistribuirBandejaSinAnomalia.resources
+C:\Users\Aimer\Documents\Visual Studio 2013\Projects\InterfazHDA\WindowsFormsApplication1\obj\Debug\InterfazHda.FrmInterfaz.resources
+C:\Users\Aimer\Documents\Visual Studio 2013\Projects\InterfazHDA\WindowsFormsApplication1\obj\Debug\InterfazHda.FrmObtenerFotosHDA.resources
+C:\Users\Aimer\Documents\Visual Studio 2013\Projects\InterfazHDA\WindowsFormsApplication1\obj\Debug\InterfazHda.FrmUpdateActasProtocolo.resources
+C:\Users\Aimer\Documents\Visual Studio 2013\Projects\InterfazHDA\WindowsFormsApplication1\obj\Debug\InterfazHda.FrmUpdateTarifa.resources
+C:\Users\Aimer\Documents\Visual Studio 2013\Projects\InterfazHDA\WindowsFormsApplication1\obj\Debug\InterfazHda.FrmUploadFileClientes.resources
+C:\Users\Aimer\Documents\Visual Studio 2013\Projects\InterfazHDA\WindowsFormsApplication1\obj\Debug\InterfazHda.FrmUtilidadFile.resources
+C:\Users\Aimer\Documents\Visual Studio 2013\Projects\InterfazHDA\WindowsFormsApplication1\obj\Debug\InterfazHda.FrmVerLog.resources
+C:\Users\Aimer\Documents\Visual Studio 2013\Projects\InterfazHDA\WindowsFormsApplication1\obj\Debug\InterfazHda.FrmWsConsumos.resources
+C:\Users\Aimer\Documents\Visual Studio 2013\Projects\InterfazHDA\WindowsFormsApplication1\obj\Debug\InterfazHda.Properties.Resources.resources
+C:\Users\Aimer\Documents\Visual Studio 2013\Projects\InterfazHDA\WindowsFormsApplication1\obj\Debug\InterfazHda.UploadActas.resources
+C:\Users\Aimer\Documents\Visual Studio 2013\Projects\InterfazHDA\WindowsFormsApplication1\obj\Debug\InterfazHda.csproj.GenerateResource.Cache
+C:\Users\Aimer\Documents\Visual Studio 2013\Projects\InterfazHDA\WindowsFormsApplication1\obj\Debug\InterfazHda.exe
+C:\Users\Aimer\Documents\Visual Studio 2013\Projects\InterfazHDA\WindowsFormsApplication1\obj\Debug\InterfazHda.pdb
+C:\Users\Aimer\Documents\Visual Studio 2013\Projects\InterfazHDA\WindowsFormsApplication1\obj\Debug\InterfazHda.csprojResolveAssemblyReference.cache
+C:\Users\Aimer\Documents\Visual Studio 2013\Projects\InterfazHDA\WindowsFormsApplication1\obj\Debug\InterfazHda.FrmDistribuirActas.resources
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\WindowsFormsApplication1\bin\Debug\InterfazHda.exe.config
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\WindowsFormsApplication1\obj\Debug\InterfazHda.exe
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\WindowsFormsApplication1\obj\Debug\InterfazHda.pdb
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\WindowsFormsApplication1\bin\Debug\InterfazHda.exe
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\WindowsFormsApplication1\bin\Debug\InterfazHda.pdb
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\WindowsFormsApplication1\obj\Debug\InterfazHda.FrmActualizarEstadoOrden.resources
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\WindowsFormsApplication1\obj\Debug\InterfazHda.FrmCleanDocumentos.resources
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\WindowsFormsApplication1\obj\Debug\InterfazHda.FrmConfig.resources
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\WindowsFormsApplication1\obj\Debug\InterfazHda.FrmConvertPDFtoTIFF.resources
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\WindowsFormsApplication1\obj\Debug\InterfazHda.FrmDistribuir.resources
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\WindowsFormsApplication1\obj\Debug\InterfazHda.FrmDistribuirActas.resources
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\WindowsFormsApplication1\obj\Debug\InterfazHda.FrmDistribuirAsigando.resources
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\WindowsFormsApplication1\obj\Debug\InterfazHda.FrmDistribuirBandejaSinAnomalia.resources
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\WindowsFormsApplication1\obj\Debug\InterfazHda.FrmImagenGuia.resources
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\WindowsFormsApplication1\obj\Debug\InterfazHda.FrmInterfaz.resources
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\WindowsFormsApplication1\obj\Debug\InterfazHda.FrmObtenerFotosHDA.resources
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\WindowsFormsApplication1\obj\Debug\InterfazHda.FrmUpdateActasProtocolo.resources
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\WindowsFormsApplication1\obj\Debug\InterfazHda.FrmUpdateTarifa.resources
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\WindowsFormsApplication1\obj\Debug\InterfazHda.FrmUploadFileClientes.resources
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\WindowsFormsApplication1\obj\Debug\InterfazHda.FrmUtilidadFile.resources
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\WindowsFormsApplication1\obj\Debug\InterfazHda.FrmVerLog.resources
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\WindowsFormsApplication1\obj\Debug\InterfazHda.FrmWsConsumos.resources
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\WindowsFormsApplication1\obj\Debug\InterfazHda.Properties.Resources.resources
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\WindowsFormsApplication1\obj\Debug\InterfazHda.UploadActas.resources
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\WindowsFormsApplication1\obj\Debug\InterfazHda.csproj.GenerateResource.Cache
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\WindowsFormsApplication1\obj\Debug\InterfazHda.FrmUploadFileImagen.resources
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\WindowsFormsApplication1\obj\Debug\InterfazHda.FrmUploadGuia.resources
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\WindowsFormsApplication1\obj\Debug\InterfazHda.FrmExtraerDocumentosActas.resources
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\WindowsFormsApplication1\obj\Debug\InterfazHda.csprojResolveAssemblyReference.cache
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\WindowsFormsApplication1\obj\Debug\InterfazHda.FrmSubirDocumentos.resources

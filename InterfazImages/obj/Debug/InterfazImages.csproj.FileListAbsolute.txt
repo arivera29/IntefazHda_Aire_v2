@@ -1,0 +1,15 @@
+C:\Users\Aimer\Documents\Visual Studio 2013\Projects\InterfazHDA\InterfazImages\bin\Debug\gsdll32.dll
+C:\Users\Aimer\Documents\Visual Studio 2013\Projects\InterfazHDA\InterfazImages\bin\Debug\InterfazImages.exe.config
+C:\Users\Aimer\Documents\Visual Studio 2013\Projects\InterfazHDA\InterfazImages\bin\Debug\InterfazImages.exe
+C:\Users\Aimer\Documents\Visual Studio 2013\Projects\InterfazHDA\InterfazImages\bin\Debug\InterfazImages.pdb
+C:\Users\Aimer\Documents\Visual Studio 2013\Projects\InterfazHDA\InterfazImages\bin\Debug\Ghostscript.NET.dll
+C:\Users\Aimer\Documents\Visual Studio 2013\Projects\InterfazHDA\InterfazImages\bin\Debug\Pdf2Image.dll
+C:\Users\Aimer\Documents\Visual Studio 2013\Projects\InterfazHDA\InterfazImages\bin\Debug\SautinSoft.PdfFocus.dll
+C:\Users\Aimer\Documents\Visual Studio 2013\Projects\InterfazHDA\InterfazImages\bin\Debug\Ghostscript.NET.xml
+C:\Users\Aimer\Documents\Visual Studio 2013\Projects\InterfazHDA\InterfazImages\obj\Debug\InterfazImages.csprojResolveAssemblyReference.cache
+C:\Users\Aimer\Documents\Visual Studio 2013\Projects\InterfazHDA\InterfazImages\obj\Debug\InterfazImages.Form1.resources
+C:\Users\Aimer\Documents\Visual Studio 2013\Projects\InterfazHDA\InterfazImages\obj\Debug\InterfazImages.Form2.resources
+C:\Users\Aimer\Documents\Visual Studio 2013\Projects\InterfazHDA\InterfazImages\obj\Debug\InterfazImages.Properties.Resources.resources
+C:\Users\Aimer\Documents\Visual Studio 2013\Projects\InterfazHDA\InterfazImages\obj\Debug\InterfazImages.csproj.GenerateResource.Cache
+C:\Users\Aimer\Documents\Visual Studio 2013\Projects\InterfazHDA\InterfazImages\obj\Debug\InterfazImages.exe
+C:\Users\Aimer\Documents\Visual Studio 2013\Projects\InterfazHDA\InterfazImages\obj\Debug\InterfazImages.pdb

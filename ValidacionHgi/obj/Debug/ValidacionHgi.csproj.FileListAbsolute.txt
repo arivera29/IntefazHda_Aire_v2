@@ -1,0 +1,14 @@
+C:\Users\Aimer\Documents\Visual Studio 2013\Projects\InterfazHDA\ValidacionHgi\bin\Debug\ValidacionHgi.exe.config
+C:\Users\Aimer\Documents\Visual Studio 2013\Projects\InterfazHDA\ValidacionHgi\bin\Debug\ValidacionHgi.exe
+C:\Users\Aimer\Documents\Visual Studio 2013\Projects\InterfazHDA\ValidacionHgi\bin\Debug\ValidacionHgi.pdb
+C:\Users\Aimer\Documents\Visual Studio 2013\Projects\InterfazHDA\ValidacionHgi\bin\Debug\itextsharp.dll
+C:\Users\Aimer\Documents\Visual Studio 2013\Projects\InterfazHDA\ValidacionHgi\bin\Debug\itextsharp.pdfa.dll
+C:\Users\Aimer\Documents\Visual Studio 2013\Projects\InterfazHDA\ValidacionHgi\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\Aimer\Documents\Visual Studio 2013\Projects\InterfazHDA\ValidacionHgi\bin\Debug\itextsharp.xtra.dll
+C:\Users\Aimer\Documents\Visual Studio 2013\Projects\InterfazHDA\ValidacionHgi\bin\Debug\itextsharp.xml
+C:\Users\Aimer\Documents\Visual Studio 2013\Projects\InterfazHDA\ValidacionHgi\obj\Debug\ValidacionHgi.csprojResolveAssemblyReference.cache
+C:\Users\Aimer\Documents\Visual Studio 2013\Projects\InterfazHDA\ValidacionHgi\obj\Debug\ValidacionHgi.Form1.resources
+C:\Users\Aimer\Documents\Visual Studio 2013\Projects\InterfazHDA\ValidacionHgi\obj\Debug\ValidacionHgi.Properties.Resources.resources
+C:\Users\Aimer\Documents\Visual Studio 2013\Projects\InterfazHDA\ValidacionHgi\obj\Debug\ValidacionHgi.csproj.GenerateResource.Cache
+C:\Users\Aimer\Documents\Visual Studio 2013\Projects\InterfazHDA\ValidacionHgi\obj\Debug\ValidacionHgi.exe
+C:\Users\Aimer\Documents\Visual Studio 2013\Projects\InterfazHDA\ValidacionHgi\obj\Debug\ValidacionHgi.pdb

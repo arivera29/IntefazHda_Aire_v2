@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tns="urn:WebServiceEcaIrreg" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns="http://schemas.xmlsoap.org/wsdl/" targetNamespace="urn:WebServiceEcaIrreg" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="urn:WebServiceEcaIrreg">
+      <xsd:import namespace="http://schemas.xmlsoap.org/soap/encoding/" />
+      <xsd:import namespace="http://schemas.xmlsoap.org/wsdl/" />
+      <xsd:complexType name="Registro">
+        <xsd:all>
+          <xsd:element name="GUIA" type="xsd:string" />
+          <xsd:element name="ESTADO" type="xsd:string" />
+          <xsd:element name="CAUSAL" type="xsd:string" />
+          <xsd:element name="FECHAGESTION" type="xsd:string" />
+          <xsd:element name="RUTAIMAGEN" type="xsd:string" />
+        </xsd:all>
+      </xsd:complexType>
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="WebServiceEcaIrregRequest">
+    <wsdl:part name="RADICADO" type="xsd:string" />
+    <wsdl:part name="FECHA" type="xsd:string" />
+    <wsdl:part name="DELEGACION" type="xsd:string" />
+  </wsdl:message>
+  <wsdl:message name="WebServiceEcaIrregResponse">
+    <wsdl:part name="return" type="tns:Registro" />
+  </wsdl:message>
+  <wsdl:portType name="WebServiceEcaIrregPortType">
+    <wsdl:operation name="WebServiceEcaIrreg">
+      <documentation>WebServiceEcaIrreg - LECTA.</documentation>
+      <wsdl:input message="tns:WebServiceEcaIrregRequest" />
+      <wsdl:output message="tns:WebServiceEcaIrregResponse" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="WebServiceEcaIrregBinding" type="tns:WebServiceEcaIrregPortType">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" style="rpc" />
+    <wsdl:operation name="WebServiceEcaIrreg">
+      <soap:operation soapAction="urn:obtenerRegistro#Registro" style="rpc" />
+      <wsdl:input>
+        <soap:body use="encoded" namespace="urn:obtenerRegistro" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="encoded" namespace="urn:obtenerRegistro" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="WebServiceEcaIrreg">
+    <wsdl:port name="WebServiceEcaIrregPort" binding="tns:WebServiceEcaIrregBinding">
+      <soap:address location="https://www.lecta.com.co:443/wservices/EcaIrreg/WebService.php" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

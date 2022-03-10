@@ -1,0 +1,16 @@
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\RutaDocumentos\bin\Debug\RutaDocumentos.exe.config
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\RutaDocumentos\bin\Debug\RutaDocumentos.exe
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\RutaDocumentos\bin\Debug\RutaDocumentos.pdb
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\RutaDocumentos\obj\Debug\RutaDocumentos.csprojResolveAssemblyReference.cache
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\RutaDocumentos\obj\Debug\RutaDocumentos.exe
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\RutaDocumentos\obj\Debug\RutaDocumentos.pdb
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\RutaDocumentos\bin\Debug\INIFileParser.dll
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\RutaDocumentos\bin\Debug\INIFileParser.xml
+C:\Users\Soluciones\Documents\Visual Studio 2015\Projects\InterfazHDA\RutaDocumentos\bin\Debug\RutaDocumentos.exe.config
+C:\Users\Soluciones\Documents\Visual Studio 2015\Projects\InterfazHDA\RutaDocumentos\bin\Debug\RutaDocumentos.exe
+C:\Users\Soluciones\Documents\Visual Studio 2015\Projects\InterfazHDA\RutaDocumentos\bin\Debug\RutaDocumentos.pdb
+C:\Users\Soluciones\Documents\Visual Studio 2015\Projects\InterfazHDA\RutaDocumentos\bin\Debug\INIFileParser.dll
+C:\Users\Soluciones\Documents\Visual Studio 2015\Projects\InterfazHDA\RutaDocumentos\bin\Debug\INIFileParser.xml
+C:\Users\Soluciones\Documents\Visual Studio 2015\Projects\InterfazHDA\RutaDocumentos\obj\Debug\RutaDocumentos.csprojResolveAssemblyReference.cache
+C:\Users\Soluciones\Documents\Visual Studio 2015\Projects\InterfazHDA\RutaDocumentos\obj\Debug\RutaDocumentos.exe
+C:\Users\Soluciones\Documents\Visual Studio 2015\Projects\InterfazHDA\RutaDocumentos\obj\Debug\RutaDocumentos.pdb

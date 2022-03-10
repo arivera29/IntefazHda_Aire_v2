@@ -1,0 +1,28 @@
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\DistribucionActas\bin\Debug\DistribucionActas.exe.config
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\DistribucionActas\obj\Debug\DistribucionActas.csprojResolveAssemblyReference.cache
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\DistribucionActas\bin\Debug\DistribucionActas.exe
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\DistribucionActas\bin\Debug\DistribucionActas.pdb
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\DistribucionActas\bin\Debug\INIFileParser.dll
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\DistribucionActas\bin\Debug\INIFileParser.xml
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\DistribucionActas\obj\Debug\DistribucionActas.exe
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\DistribucionActas\obj\Debug\DistribucionActas.pdb
+C:\Users\ASUS\source\repos\InterfazHda\DistribucionActas\bin\Debug\DistribucionActas.exe.config
+C:\Users\ASUS\source\repos\InterfazHda\DistribucionActas\bin\Debug\DistribucionActas.exe
+C:\Users\ASUS\source\repos\InterfazHda\DistribucionActas\bin\Debug\DistribucionActas.pdb
+C:\Users\ASUS\source\repos\InterfazHda\DistribucionActas\bin\Debug\INIFileParser.dll
+C:\Users\ASUS\source\repos\InterfazHda\DistribucionActas\bin\Debug\INIFileParser.xml
+C:\Users\ASUS\source\repos\InterfazHda\DistribucionActas\obj\Debug\DistribucionActas.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\InterfazHda\DistribucionActas\obj\Debug\DistribucionActas.csproj.CopyComplete
+C:\Users\ASUS\source\repos\InterfazHda\DistribucionActas\obj\Debug\DistribucionActas.exe
+C:\Users\ASUS\source\repos\InterfazHda\DistribucionActas\obj\Debug\DistribucionActas.pdb
+C:\Users\ASUS\source\repos\InterfazHda\DistribucionActas\obj\Debug\DistribucionActas.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\InterfazHda_Aire\DistribucionActas\obj\Debug\DistribucionActas.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\InterfazHda_Aire\DistribucionActas\bin\Debug\DistribucionActas.exe.config
+C:\Users\ASUS\source\repos\InterfazHda_Aire\DistribucionActas\bin\Debug\DistribucionActas.exe
+C:\Users\ASUS\source\repos\InterfazHda_Aire\DistribucionActas\bin\Debug\DistribucionActas.pdb
+C:\Users\ASUS\source\repos\InterfazHda_Aire\DistribucionActas\bin\Debug\INIFileParser.dll
+C:\Users\ASUS\source\repos\InterfazHda_Aire\DistribucionActas\bin\Debug\INIFileParser.xml
+C:\Users\ASUS\source\repos\InterfazHda_Aire\DistribucionActas\obj\Debug\DistribucionActas.csproj.CopyComplete
+C:\Users\ASUS\source\repos\InterfazHda_Aire\DistribucionActas\obj\Debug\DistribucionActas.exe
+C:\Users\ASUS\source\repos\InterfazHda_Aire\DistribucionActas\obj\Debug\DistribucionActas.pdb
+C:\Users\ASUS\source\repos\InterfazHda_Aire\DistribucionActas\obj\Debug\DistribucionActas.csproj.AssemblyReference.cache

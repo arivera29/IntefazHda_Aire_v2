@@ -1,0 +1,39 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="InterfazHda.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="url_ws" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://servicios.electricaribe.com/irregularidades_services/IrregularidadesService</Value>
+    </Setting>
+    <Setting Name="user_ws" Type="System.String" Scope="User">
+      <Value Profile="(Default)">sintegrales</Value>
+    </Setting>
+    <Setting Name="pass_ws" Type="System.String" Scope="User">
+      <Value Profile="(Default)">sintegrales1808</Value>
+    </Setting>
+    <Setting Name="url_hda" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://hgiservice.herramientasgnf.com:8080/rest/</Value>
+    </Setting>
+    <Setting Name="user_hda" Type="System.String" Scope="User">
+      <Value Profile="(Default)">hgi</Value>
+    </Setting>
+    <Setting Name="pass_hda" Type="System.String" Scope="User">
+      <Value Profile="(Default)">hgi</Value>
+    </Setting>
+    <Setting Name="url_hda_docu" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://hda.herramientasgnf.com:8080/rest/serviceorder/</Value>
+    </Setting>
+    <Setting Name="url_hda_fotos" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://hgiservice.herramientasgnf.com:8080/api/media/</Value>
+    </Setting>
+    <Setting Name="url_hda_firma" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://hgiservice.herramientasgnf.com:8080/api/signatures/</Value>
+    </Setting>
+    <Setting Name="dir_imagenes" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\inetpub\wwwroot\HGI2\File\Documentos</Value>
+    </Setting>
+    <Setting Name="conexion" Type="System.String" Scope="User">
+      <Value Profile="(Default)">integrated security=SSPI;data source=WIN-9L0BNLD7OU9\\SQLEXPRESS;persist security info=False;initial catalog=BDHGI2</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="InterfazImages.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ruta_doc" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\inetpub\wwwroot\HGI2\File\Documentos</Value>
+    </Setting>
+    <Setting Name="conexion" Type="System.String" Scope="User">
+      <Value Profile="(Default)">integrated security=SSPI;data source=WIN-9L0BNLD7OU9\\SQLEXPRESS;persist security info=False;initial catalog=BDHGI2</Value>
+    </Setting>
+    <Setting Name="serverFtp" Type="System.String" Scope="User">
+      <Value Profile="(Default)">localhost</Value>
+    </Setting>
+    <Setting Name="userFtp" Type="System.String" Scope="User">
+      <Value Profile="(Default)">root</Value>
+    </Setting>
+    <Setting Name="claveFtp" Type="System.String" Scope="User">
+      <Value Profile="(Default)">pantera2341</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,39 @@
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\ObtenerActasHda\bin\Debug\ObtenerActasHda.exe.config
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\ObtenerActasHda\obj\Debug\ObtenerActasHda.csprojResolveAssemblyReference.cache
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\ObtenerActasHda\bin\Debug\ObtenerActasHda.exe
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\ObtenerActasHda\bin\Debug\ObtenerActasHda.pdb
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\ObtenerActasHda\bin\Debug\INIFileParser.dll
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\ObtenerActasHda\bin\Debug\INIFileParser.xml
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\ObtenerActasHda\obj\Debug\ObtenerActasHda.exe
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\ObtenerActasHda\obj\Debug\ObtenerActasHda.pdb
+C:\Users\user 8\Documents\Visual Studio 2010\Projects\InterfazHDA\ObtenerActasHda\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Soluciones\Documents\Visual Studio 2015\Projects\InterfazHDA\ObtenerActasHda\bin\Debug\ObtenerActasHda.exe.config
+C:\Users\Soluciones\Documents\Visual Studio 2015\Projects\InterfazHDA\ObtenerActasHda\bin\Debug\ObtenerActasHda.exe
+C:\Users\Soluciones\Documents\Visual Studio 2015\Projects\InterfazHDA\ObtenerActasHda\bin\Debug\ObtenerActasHda.pdb
+C:\Users\Soluciones\Documents\Visual Studio 2015\Projects\InterfazHDA\ObtenerActasHda\bin\Debug\INIFileParser.dll
+C:\Users\Soluciones\Documents\Visual Studio 2015\Projects\InterfazHDA\ObtenerActasHda\bin\Debug\INIFileParser.xml
+C:\Users\Soluciones\Documents\Visual Studio 2015\Projects\InterfazHDA\ObtenerActasHda\obj\Debug\ObtenerActasHda.csprojResolveAssemblyReference.cache
+C:\Users\Soluciones\Documents\Visual Studio 2015\Projects\InterfazHDA\ObtenerActasHda\obj\Debug\ObtenerActasHda.exe
+C:\Users\Soluciones\Documents\Visual Studio 2015\Projects\InterfazHDA\ObtenerActasHda\obj\Debug\ObtenerActasHda.pdb
+C:\Users\ASUS\source\repos\InterfazHda\ObtenerActasHda\bin\Debug\ObtenerActasHda.exe.config
+C:\Users\ASUS\source\repos\InterfazHda\ObtenerActasHda\bin\Debug\ObtenerActasHda.exe
+C:\Users\ASUS\source\repos\InterfazHda\ObtenerActasHda\bin\Debug\ObtenerActasHda.pdb
+C:\Users\ASUS\source\repos\InterfazHda\ObtenerActasHda\bin\Debug\INIFileParser.dll
+C:\Users\ASUS\source\repos\InterfazHda\ObtenerActasHda\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ASUS\source\repos\InterfazHda\ObtenerActasHda\bin\Debug\INIFileParser.xml
+C:\Users\ASUS\source\repos\InterfazHda\ObtenerActasHda\obj\Debug\ObtenerActasHda.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\InterfazHda\ObtenerActasHda\obj\Debug\ObtenerActasHda.csproj.CopyComplete
+C:\Users\ASUS\source\repos\InterfazHda\ObtenerActasHda\obj\Debug\ObtenerActasHda.exe
+C:\Users\ASUS\source\repos\InterfazHda\ObtenerActasHda\obj\Debug\ObtenerActasHda.pdb
+C:\Users\ASUS\source\repos\InterfazHda\ObtenerActasHda\obj\Debug\ObtenerActasHda.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\InterfazHda_Aire\ObtenerActasHda\bin\Debug\ObtenerActasHda.exe.config
+C:\Users\ASUS\source\repos\InterfazHda_Aire\ObtenerActasHda\bin\Debug\ObtenerActasHda.exe
+C:\Users\ASUS\source\repos\InterfazHda_Aire\ObtenerActasHda\bin\Debug\ObtenerActasHda.pdb
+C:\Users\ASUS\source\repos\InterfazHda_Aire\ObtenerActasHda\bin\Debug\INIFileParser.dll
+C:\Users\ASUS\source\repos\InterfazHda_Aire\ObtenerActasHda\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ASUS\source\repos\InterfazHda_Aire\ObtenerActasHda\bin\Debug\INIFileParser.xml
+C:\Users\ASUS\source\repos\InterfazHda_Aire\ObtenerActasHda\obj\Debug\ObtenerActasHda.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\InterfazHda_Aire\ObtenerActasHda\obj\Debug\ObtenerActasHda.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\InterfazHda_Aire\ObtenerActasHda\obj\Debug\ObtenerActasHda.csproj.CopyComplete
+C:\Users\ASUS\source\repos\InterfazHda_Aire\ObtenerActasHda\obj\Debug\ObtenerActasHda.exe
+C:\Users\ASUS\source\repos\InterfazHda_Aire\ObtenerActasHda\obj\Debug\ObtenerActasHda.pdb
